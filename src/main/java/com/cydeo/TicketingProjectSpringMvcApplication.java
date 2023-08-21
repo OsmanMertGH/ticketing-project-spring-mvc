@@ -1,4 +1,4 @@
-package com.cydeo.ticketingprojectspringmvc;
+package com.cydeo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
